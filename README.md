@@ -18,7 +18,7 @@ Test out different agent capabilities interactively using Jupyter Notebooks.
   - `LightPlugin` 💡: A basic example plugin  
   🔧 _Create your own plugin and add it to `sk-main.ipynb`!_
 
-> ℹ️ Use the credentials in the `variables.env` file to run notebooks.
+> ℹ️ Use the credentials in the `variables.env` file to run notebooks. Find the variables here: [Google Doc](https://docs.google.com/document/d/1yk_Sd_2M-hQ7VpBVDmJFygivwACPyFJQAzWNATetXp0/edit?usp=sharing)
 
 
 
